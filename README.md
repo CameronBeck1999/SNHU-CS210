@@ -4,6 +4,8 @@
 
 "Summarize the project and what problem it was solving."
 
+The project I want to summarize is the first project. In it, I was tasked to design a digital clock that comes with the options menu with the following: add a second, add a minute, and add an hour. When I say a digital clock, I mean a clock that displays both the 12-hour and 24-hour clock at the same time.
+
 "What did you do particularly well?"
 
 "Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?"
