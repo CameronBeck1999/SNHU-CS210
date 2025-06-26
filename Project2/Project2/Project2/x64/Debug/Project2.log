@@ -1,0 +1,4 @@
+﻿  Project2.cpp
+C:\Users\camer\OneDrive\Documents\SNHU\Term3\CS210 - Programming Languages\Module5\Project2\Project2.cpp(68,9): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\camer\OneDrive\Documents\SNHU\Term3\CS210 - Programming Languages\Module5\Project2\Project2.cpp(72,9): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Project2.vcxproj -> C:\Users\camer\OneDrive\Documents\SNHU\Term3\CS210 - Programming Languages\Module5\Project2\x64\Debug\Project2.exe
